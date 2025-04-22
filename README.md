@@ -1,1 +1,1 @@
-# IDT-2-project-
+# face_recognition_project
